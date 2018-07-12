@@ -1,0 +1,8 @@
+# OS Files
+.DS_Store
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# PyCharm project settings
+.idea/
